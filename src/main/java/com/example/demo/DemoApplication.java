@@ -11,8 +11,8 @@ public class DemoApplication {
 		System.out.println("First");
 		System.out.println("Second");
 		
-		system.out.println("latest")
-		System.out.println ("branching out example")
+		system.out.println("latest");
+		System.out.println ("branching out example");
 		
 	}
 
